@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\davgo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\davgo\\.nuget\\packages"
+    ]
+  }
+}
